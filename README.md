@@ -1,4 +1,4 @@
-# Recipe Recommendation Engine Project
+# Recipe Recommendation Engine 
 
 ## Introduction
 The recommendation engine is a crucial tool for increasing user engagement on your website. By providing users with relevant recipes, you can enhance their experience and encourage them to spend more time on your site. This project focuses on building a recommendation engine for a recipe website, aiming to improve user engagement and potentially increase business opportunities such as collaborations and promotions.
